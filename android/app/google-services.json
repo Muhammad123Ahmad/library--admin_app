@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "405464479106",
+    "firebase_url": "https://testing-205f1-default-rtdb.firebaseio.com",
+    "project_id": "testing-205f1",
+    "storage_bucket": "testing-205f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405464479106:android:9e6e5b5585d5a1d04d0b9b",
+        "android_client_info": {
+          "package_name": "com.example.firestore_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABYghKyMUkv3SQXiDNlAx0Dk9ZRtxGfbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405464479106:android:10ec52f02b82fbb44d0b9b",
+        "android_client_info": {
+          "package_name": "com.testing.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABYghKyMUkv3SQXiDNlAx0Dk9ZRtxGfbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
